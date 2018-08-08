@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857917289626",
+    "firebase_url": "https://lovefinder-1a602.firebaseio.com",
+    "project_id": "lovefinder-1a602",
+    "storage_bucket": "lovefinder-1a602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857917289626:android:ed6ed873502794f2",
+        "android_client_info": {
+          "package_name": "com.example.manhtuan.lovefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857917289626-0hu8detunf4vgdqoh804e7j9kfe55882.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manhtuan.lovefinder",
+            "certificate_hash": "a6642c17a2459cd1ec3d75e90fcf219a8c45bb3c"
+          }
+        },
+        {
+          "client_id": "857917289626-6thk3ur2fjh01tqiuqn95bnqp0rl963i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDq4DRF4bH4SKXmV_k6ngNCTKFpTy9Mes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857917289626-6thk3ur2fjh01tqiuqn95bnqp0rl963i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

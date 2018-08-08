@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LoveFinder</string>
+    <string name="facebook_app_id" translatable="false">208934819867048</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb208934819867048</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="YOUR_PROFILE">YOUR PROFILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="profile_name">NAME</string>
+    <string name="profile_location">LOCATION</string>
+    <string name="profile_gender">GENDER</string>
+    <string name="profile_birthday">BIRTHDAY</string>
+    <string name="profile_email">EMAIL</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="YOUR_HOBBIES">YOUR HOBBIES</string>
+    <string name="music">Music</string>
+    <string name="movie">Movie</string>
+    <string name="game">Game</string>
+    <string name="Athlete">Athlete</string>
+    <string name="team">Team</string>
+    <string name="like">Like</string>
+    <string name="home">HOME</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="profile_hometown">HOMETOWN</string>
+    <string name="MESSAGES">MESSAGES</string>
+    <string name="Skip">Skip</string>
+    <string name="message_dialog_select_image">You have updated the Profile Picture successfully.\nNow choose other picture you want to display in LoveFinder from Facebook</string>
+    <string name="tittle_dialog_select_image">SELECT PICTURE</string>
+    <string name="OK">OK</string>
+    <string name="message_dialog_select_main_picture">SELECT THE PICTURE THAT YOU WANT TO MAKE YOUR PROFILE PICTURE</string>
+    <string name="main_image_detail_asking">Would you like to take this picture as your Profile Picture ?</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="Some_hobbies_of_this_user_may_interest_you">Some hobbies of this user may interest you :</string>
+    <string name="search_user_message">Search user ...</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@drawable/custom_border_bot">
+    <ImageView
+        android:id="@+id/imageViewProfileUserListViewMessage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_blue_light"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textViewUserNameListViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User Name"
+            android:gravity="center|left"
+            android:textStyle="bold"
+            android:textSize="17sp"/>
+        <TextView
+            android:id="@+id/textViewLastMessageListViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Last message"
+            android:gravity="center|left"
+            android:textSize="15sp"/>
+    </LinearLayout>
+</LinearLayout>

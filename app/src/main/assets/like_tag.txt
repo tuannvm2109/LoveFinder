@@ -1,0 +1,328 @@
+LGBTQ,LGBTQ,đồng tính,giới tính thứ ba
+LGBTQ,GAY
+LGBTQ,Lesbian,LESBIAN
+Horror,Horror,kinh dị,kinh hoàng
+Horror,Creepy,CREEPYPASTA,CREEPY,creepy
+Kiếm hiệp,Kiếm hiệp
+Kiếm hiệp,Võ Công,Võ công,võ công
+Kiếm hiệp,Dương Quá,Dương quá,dương quá,Điêu Quá
+Kiếm hiệp,Thần Điêu,thần điêu,Thần điêu
+Kiếm hiệp,Trương Tam Phong,trương tam phong
+Kiếm hiệp,Tiêu Phong,Tiêu phong,tiêu phong
+Kiếm hiệp,Cái Bang,Cái bang
+Kiếm hiệp,Võ Đang
+Kiếm hiệp,Nga My
+Kiếm hiệp,Trương Vô Kỵ
+Consumption,Consumption,Tiêu Dùng,Tiêu dùng,TIÊU DÙNG
+Funny Video,Video Hài,Video giải trí,clip hài,VIDEO CLIP HOT
+Funny Video,Anh Da Đen
+Funny Video,Anh Da Vàng
+Funny Video,Anh Da Trắng
+Funny Video,Hài Trung Quốc
+Funny Commic,Truyện Hài,Truyện giải trí
+Funny Picture,Ảnh hài,ảnh chế
+Funny Picture,Memes,meme,Meme
+Funny Picture,Life Jokes
+Funny Picture,9GAG,9gag,9Gag
+Troll,Trolling,troll,trolling
+Fashion,Fashion,thời trang
+Fashion,Brocade,Thổ Cẩm
+Fashion,Tiin Store
+Fashion,Urban Store
+Fashion,T-Ju Handmade
+Fashion,Jewelry,Trang sức
+Fashion,Azzaro,Alessandro Luigi
+Fashion,Jogger,JOGGER,jogger
+Fashion,Bomber,bomber,BOMBER
+Fashion,Brand stuff,hàng hiệu
+Fashion,Watch,Watchs,Đồng Hồ
+Fashion,Sun Boutique
+Fashion,Elise,ELISE
+Fashion,Munmun_handmade
+Shoes,Shoes,Giày,shoes
+Shoes,Vans
+Shoes,Snicker,Snickers
+Shoes,Nike
+Shoes,Adidas
+Shoes,Boot
+Makeup,Makeup,làm đẹp
+Makeup,Tinh Dầu Aroma
+Makeup,SamNatural
+Makeup,mỹ phẩm
+Makeup,phẫu thuật thẩm mỹ
+Makeup,Spa
+English,English,Tiếng anh
+English,toeic,Toeic,TOEIC
+English,ielts,IELTS,Ielts
+Marvel,Marvel
+Marvel,Doctor Strange,phù thủy tối thượng
+Marvel,iron man,người sắt
+Marvel,Hulk,HULK,khổng lồ xanh
+Marvel,captain american
+Marvel,thần sấm
+Marvel,wolverine,WOLVERINE,Wolverine
+Marvel,Ant-Man,ant man
+Marvel,DeadPool,Deadpool,DEADPOOL,deadpool
+Comedy,Logan Paul
+Comedy,Huy Me,HuyMe,HuyMeProductions
+Comedy,Dan Nampaikid
+Comedy,Piques,PIQUES
+Comedy,Eh Bee
+Comedy,Curtis Lepore
+Comedy,chong nom
+Comedy,PewDiePie,PEWDIEPIE,pewdiepie
+Comedy,King Bach
+Movies,Movies,Movies,Phim ảnh,Hollywood,CGV
+Movies,Horror Movies,The Walking Dead,Xác sống
+Movies,Action Movies,phim hành động,Johnny Depp,jack sparrow,Leonardo,Game of Thrones,Sansa Stark,Jon Snow,Targaryen,Lannister
+Movies,Fantasy Movies,phim viễn tưởng,Harry Potter,Hogwarts,Potterhead,Hogwart
+Movies,Crime Movie,phim tội phạm,Breaking Bad,cảnh sát hình sự
+Movies,Korea Movie,Korea Movie,phim hàn,parkseojoon
+Movies,Comedy,Phim hài,Mr.Bean,Mr Bean,Charlie Chaplin
+Movies,China Movie,phim cổ trang Trung Quốc,Phim Trung Quốc
+Anime,Pokemon,POKEMON,Pokemons
+Anime,One Punch Man,Saitama,SAITAMA,One-punch man
+Anime,Anime,ANIME
+Anime,Ghibli Studio,Ghibli,Chihiro,Spirited Away,
+Anime,Naruto,sasuke,sakura,kakashi,NARUTO,SASUKE,Sasuke,Sakura,Kakashi
+Anime,Songoku,gohan,7 viên ngọc rồng,SONGOKU,Dragon Balls
+Anime,Conan,thám tử lừng danh,CONAN,
+Anime,One Piece,Luffy,Monkey D
+Anime,Attack On Titan
+Cartoon,Cartoon,CARTOON,Hoạt Hình
+Cartoon,Disney,disney,DISNEY
+Cartoon,Ben 10
+Animal,Animal,Con vật,động vật
+Animal,Chim,chim,đại bàng
+Animal,thú cưng,PET,Pet,Pets,PETS
+Animal,DOG,Dog,dog,chó,Chó,AnimalDOG
+Animal,Cat,CAT,cat,mèo,Mèo
+Animal,Pig,PIG,lợn,Lợn
+Animal,Rabbit,rabbit,thỏ,Thỏ
+Animal,Zebra,zebra,ngựa vằn
+Animal,Giraffe,giraffe,hươu cao cổ
+Animal,Rhinoceros,rhinoceros,tê giác
+Animal,Lion,lion,sư tử
+Football,Football,bóng đá,soccer,FOOTBALL,football,Soccer,SOCCER
+Football,Lukaku,lukaku,LUKAKU
+Football,Manchester,MANCHESTER,manchester
+Football,Tottenham,TOTTENHAM
+Football,Chelsea,chelsea,CHELSEA
+Football,world cup
+Football,ronaldinho,RONALDINHO,Ronaldinho
+Football,neymar,NEYMAR,Neymar
+Football,kaká,KAKÁ
+Football,Ibrahimović,Ibrahimovic
+Football,Sergio Ramos
+Football,Công Phượng
+Football,Paul Pogba
+Football,Kylian Mbappé,Kylian Mbappe
+Football,Eden Hazard
+Football,Bùi Tiến Dũng
+Football,Mesut Özil,ozil,OZIL
+Football,Mourinho,MOURINHO
+Football,Zidane,ZIDANE
+Football,Lương Xuân Trường
+Football,Alisson Becker
+Football,Rooney,ROONEY
+Football,Beckham,BACKHAM
+Football,Pelé,pele,PELE
+Football,Công Vinh
+Football,Alexis Sánchez,Sánchez,Sanchez
+Football,de Gea
+Football,Leo Messi,messi,m10,Messi,MESSI
+Football,Cristiano Ronaldo,cr7
+Crafts,Crafts,Craft,mẹo vặt,life hack
+Sinh Viên,Sinh Viên
+Sinh Viên,Đại Học Luật,HLU
+Sinh Viên,PTIT,ptit,Ptit,học viện Bưu chính Viễn Thông
+Sinh Viên,Đại Học Bách Khoa,HUST,Bách Khoa
+Sinh Viên,Đại Học Xây Dựng,NUCE,Nuce,nuce
+Sinh Viên,Đại Học Kinh Tế Quốc Dân,NEU,Neu
+Sinh Viên,Đại Học Ngoại Thương,FTU
+Sinh Viên,Banking Academy,Học Viện Ngân Hàng,HVNH
+Sinh Viên,Học viện An Ninh,HVAN
+Sinh Viên,Đại Học Kiến Trúc,H.A.U,HAUer,ĐH Kiến Trúc,HAU,HAUers
+Sinh Viên,Đại Học Y,ĐH Y
+Sinh Viên,Đại Học Nông Nghiệp,ĐH Nông Nghiệp
+Sinh Viên,Đại Học Y Học Cổ Truyền
+Web Game,Web Game
+Web Game,Gunny
+Web Game,surviv.io,Surviv.io,SURVIV.IO
+PC Game,PC Game,Gamer,Game
+PC Game,GameK
+PC Game,Dota,Dota2,DOTA,Dota2Vn,Dota 2
+PC Game,Legion TD
+PC Game,Overwatch,OVERWATCH,overwatch
+PC Game,AOE,Aoe,đế chế,G_man,GMan,G Man,Chim sẻ đi nắng
+PC Game,Hearthstone,HEARTHSTONE
+PC Game,Diablo,DIABLO
+PC Game,BatteGround,pubg,PUBG
+PC Game,Video Game,trò chơi video,Điện Tử Băng 4 Nút
+PC Game,Esports,esports,ESPORTS,gaming,Gaming,GAMING,trò chơi điện tử
+App Game,PokemonGo,PokemonGO
+App Game,Rogue Life
+App Game,Angry Birds
+App Game,Clash of Clan
+App Game,Candy Crush
+App Game,Clash of Royal
+App Game,Hustle Castle
+App Game,Endless Frontier
+App Game,Võ Lâm Mobile
+App Game,2048
+App Game,Switch Color
+App Game,Liên Quân
+App Game,Garena Mobile
+App Game,Arrow.io,arrow.io
+Car,Car,siêu xe
+Car,Land Rover
+Car,Lexus
+Car,Cadillac
+Car,Bentley
+Car,Porsche
+Technology,Technology,Công Nghệ
+Technology,Software Developer,DEV,Dev,dev,TopDev
+Technology,Code,coding,lập trình,programing,Programing,code,CODE,Coding,CODING,Coder
+Technology,FPT,fpt
+Technology,Framgia,FRAMGIA,framgia
+Technology,Co-Well,CO-WELL
+Book,Book,Sách,sách,book,Booking
+Book,Nguyễn Nhật Ánh,Nguyen Nhat Anh,Nguyễn Nhật Ánh,Còn Chút Gì Để Nhớ,Mắt biếc,Hoa Vàng Trên Cỏ Xanh
+Book,Comic,Truyện Tranh
+Book,Poem,Thơ,thơ
+Book,Literary,Văn Học
+Book,Kim Dung
+League Of Legends,League Of Legends,liên minh huyền,LMHT
+League Of Legends,Noway,NOWAY
+League Of Legends,Nevan,NEVAN
+League Of Legends,Levi,LEVI
+League Of Legends,Faker,faker,FAKER
+League Of Legends,Optimus,OPTIMUS
+League Of Legends,ViruSs
+League Of Legends,Siv HD
+Weather,Weather,thời tiết,WEATHER
+Kpop Music,Kpop Music,nhạc hàn
+Kpop Music,big bang
+Kpop Music,BTS,Bts
+Kpop Music,DBSK,Dbsk
+Kpop Music,super junior
+Kpop Music,SS501,ss501,Ss501
+Kpop Music,SHINee,Shinee,shinee
+Kpop Music,T-ara,t-ara,T-ARA,T-Ara
+Kpop Music,G-Dragon,G-DRAGON,G_DRAGON,G-dragon,g-dragon
+Kpop Music,T.O.P
+Kpop Music,Seungri,SEUNGRI,seungri
+Kpop Music,teayang,tea-yang
+Kpop Music,SNSD,Snsd,snsd
+Vpop Music,Vpop Music,nhạc việt
+Vpop Music,Tuấn Hưng
+Vpop Music,Hồ Quang Hiếu
+Vpop Music,Lưu Chí Vỹ
+Vpop Music,Phương Ly
+Vpop Music,Phan Mạnh Quỳnh
+Vpop Music,Đông Nhi
+Vpop Music,nam cường
+Vpop Music,noo phước thịnh
+Vpop Music,OnlyC,ONLYC
+Vpop Music,Tóc Tiên
+Vpop Music,Soobin Hoàng Sơn,soobin
+Vpop Music,Phạm quỳnh anh
+Vpop Music,Ngô kiến huy
+Vpop Music,Đan trường
+Vpop Music,MTP,sơn tùng,Sếp Tùng,Mtp
+Vpop Music,nguyễn hải phong
+Vpop Music,M4U
+Vpop Music,thùy chi
+Vpop Music,Đen Vâu
+Vpop Music,Bảo Thy
+US/UK Music,US/UK Music,nhạc mỹ,Nhạc US-UK
+US/UK Music,Owl City
+US/UK Music,4QEverSound
+US/UK Music,Sam Feldt
+US/UK Music,Jason Mraz
+US/UK Music,Simple Plan
+US/UK Music,The Script
+US/UK Music,Coldplay,COLDPLAY,coldplay
+US/UK Music,Ed Sheeran
+US/UK Music,TheFatRat,THEFATRAT,thefatrat
+US/UK Music,Colbie Caillat
+US/UK Music,Sam Smith
+US/UK Music,MAGIC!,magic!
+US/UK Music,Miley Cyrus
+US/UK Music,Twenty One Pilots
+US/UK Music,Imagine Dragons
+US/UK Music,Razihel,RAZIHEL
+US/UK Music,Martin Hall
+US/UK Music,Taylor Swift
+US/UK Music,Lukas Graham
+US/UK Music,maroon 5
+US/UK Music,adam levine
+US/UK Music,Imagine Dragons
+US/UK Music,The Chainsmokers
+US/UK Music,Drake,DRAKE
+US/UK Music,Post Malone
+US/UK Music,XXXTENTACION,xxxtentacion
+US/UK Music,Florence,FLORENCE
+US/UK Music,Cardi B
+US/UK Music,Gorillaz
+US/UK Music,Shawn Mendes
+US/UK Music,OneRepublic,ONEREPUBLIC
+US/UK Music,Alan Walker
+US/UK Music,Avicii,AVICII,avicii
+US/UK Music,50 cent
+US/UK Music,Bruno Mars
+US/UK Music,Camila Cabello
+US/UK Music,Daniel Powter
+US/UK Music,B.o.B,B.O.B
+US/UK Music,Clean Bandit
+US/UK Music,Zedd,ZEDD
+US/UK Music,Gym Class Heroes
+US/UK Music,Pharrell Williams
+US/UK Music,Justin Bieber
+US/UK Music,David Guetta
+EDM Music,EDM Music,EDM,nhạc điện tử
+EDM Music,Chainsmokers,chainsmokers
+EDM Music,Alan Walker
+EDM Music,Avicii
+EDM Music,Dash Berlin
+EDM Music,Tafules
+News,News,tin tức,NEWS,Kênh Thông tin
+News,Tin tức xã hội,Ký Sự Đường Phố Thông tin,BEATVN,BeatVN
+News,Tin tức tài chính
+News,Tin tức giáo dục
+News,Tin tức sức khỏe
+GYM,Gym,Gyms,Fitness
+Art,Art,Arts
+Art,Feng Shui,Phong thủy
+Art,Painting,Picasso,paintings,Paintings
+Showbiz VN,Showbiz VN,Showbiz việt nam
+Showbiz VN,Công Lý
+Showbiz VN,Nhã Phương
+Showbiz VN,FAP TV
+Showbiz VN,Nhật Anh Trắng
+Showbiz VN,Ngọc Trinh
+Showbiz VN,Hoài Linh
+Showbiz VN,Trấn Thành
+Showbiz VN,Linh Ka
+Showbiz VN,Chi Pu
+Showbiz VN,Tùng Sơn
+Showbiz VN,Bà Tưng
+Showbiz VN,MC Hải Bình
+Showbiz VN,PewPew,pewpew,PEWPEW
+Showbiz VN,DJ Hoàng Anh
+Showbiz VN,Lou Hoàng
+Showbiz VN,Kiều Trinh
+Showbiz VN,Jang Mi
+Showbiz VN,Quân Kun
+Showbiz VN,Uyên Pu
+Travel,Travel,du lịch
+Travel,Phượt,phượt
+Eating,Eating,Ăn uống,ẩm thực,nấu nướng,Nấu Ăn
+Eating,Feedy
+Eating,KFC
+Eating,Lotte
+Eating,Dingtea
+Eating,Pizza Hut
+Eating,Coffee,cafe,COFFEE,CAFE,Cafe,coffee,Cà Phê
+Eating,Cơm Niêu
+Eating,BBQ

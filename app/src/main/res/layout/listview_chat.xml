@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+    <LinearLayout
+        android:layout_gravity="left"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayoutOtherUserListViewChat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.facebook.login.widget.ProfilePictureView
+            android:id="@+id/profilePictureViewOtherUserListViewChat"
+            android:layout_width="50dp"
+            android:layout_height="50dp"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/custom_bubble_chat_other_user">
+            <TextView
+                android:id="@+id/textViewContentOtherUserListViewChat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="some textasdfasdfasdfadsfasdfdsafasdfadfasdfadfa"/>
+            <TextView
+                android:id="@+id/textViewTimeOtherUserListViewChat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="time"
+                android:textSize="12sp"
+                android:layout_gravity="bottom|right"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutUserListViewChat"
+        android:orientation="vertical"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_gravity="right"
+        android:background="@drawable/custom_bubble_chat_user">
+        <TextView
+            android:id="@+id/textViewContentUserListViewChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="some textasdfasdfasdfadsfasdfdsafasdfadfasdfadfa"/>
+        <TextView
+            android:id="@+id/textViewTimeUserListViewChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:textSize="12sp"
+            android:layout_gravity="bottom|right"/>
+    </LinearLayout>
+</FrameLayout>

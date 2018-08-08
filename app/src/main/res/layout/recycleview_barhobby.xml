@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="140dp"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:background="@drawable/custom_border">
+    <ImageView
+        android:id="@+id/imageViewIconRecycleHobby"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@drawable/ic_music"
+        android:layout_gravity="center"
+        android:layout_marginLeft="2dp"
+        android:padding="5dp"
+        android:background="#dcdfcc"/>
+    <TextView
+        android:id="@+id/textViewHobbyRecycleHobby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hobby"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"/>
+</LinearLayout>

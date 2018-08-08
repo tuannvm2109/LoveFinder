@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveFinder</string>
+    <string name="profile_name">TÊN</string>
+    <string name="profile_location">VỊ TRÍ</string>
+    <string name="profile_gender">GIỚI TÍNH</string>
+    <string name="profile_birthday">NGÀY SINH</string>
+    <string name="profile_email">EMAIL</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="music">Âm nhạc</string>
+    <string name="movie">Phim ảnh</string>
+    <string name="game">Trò chơi</string>
+    <string name="Athlete">Vận động viên</string>
+    <string name="team">Đội ưa thích</string>
+    <string name="like">Thích</string>
+    <string name="home">TRANG CHỦ</string>
+    <string name="write_a_message">Nội dung tin nhắn</string>
+    <string name="profile_hometown">QUÊ NHÀ</string>
+    <string name="MESSAGES">TIN NHẮN</string>
+    <string name="YOUR_HOBBIES">SỞ THÍCH CỦA BẠN</string>
+    <string name="YOUR_PROFILE">TRANG CÁ NHÂN</string>
+</resources>

@@ -1,0 +1,250 @@
+1   wonderful
+1   beautiful
+1   fantastic
+0   t ghét nó
+0   ghét cực kì ghét
+0   quá ghét vì nó quá tệ
+0   t thực sự thấy ghét bài hát này
+0   bài hát này làm t bị ghét
+0   ghét cái thứ này
+0   không ưa nổi cái thứ này
+1   t yêu bài hát này
+1   t yêu anh ấy
+0   tau hate nó
+0   tau like nó
+1   yêu mất rồi
+1   yêu nhiều quá
+1   tôi thực sự thấy yêu nó
+1   idol của tui
+1   yêu đến chết mất
+1   yêu nhiều quá
+0   xấu hết phần người khác
+0   quá là xấu xí
+1   xinh quá đi mất
+1   xinh đẹp tuyệt vời
+1   đẹp vcl
+1   xinh vcl
+1   yêu quá đi mất
+1   quá là đẹp đẽ
+1   thích chết đi được
+1   tôi thích như thế này
+0   tôi ghét như thế này
+0   tôi không thích như thế
+0   ghét bài hát này
+0   ghét thứ âm nhạc này
+1   nghe thích vcl
+0   thể loại nghe chán quá
+0   không ưa nổi loại này
+0   tệ hết mức
+0   chôn nó đi
+0   đừng cho nó đẻ trứng
+0   càng ngày càng chán
+1   thực sự thấy yêu quý nó
+1   quá hay và quá đỉnh
+1   đỉnh cao là đây
+1   quá tuyệt
+0   thấy chán sau khi xem cái này
+1   tôi yêu nó
+1   tau yêu nó
+1   mình yêu nó
+1   bản thân thấy yêu nó
+1   tôi thực sự thích nó
+1   tôi thích nó rất nhiều
+1   t thích nó
+0   super bad
+0   ugly
+1   Well done
+1   good job
+1   Wow! I love your new dress.
+0   bitch
+0   fuck this
+0   i hate it
+0   hate
+0   hate it
+0   really hate
+0   very hate
+0   bad
+1   hay không thể tin nổi
+0   feel bad for this
+1   like this so much
+1   like!
+1   quẩy lên
+1   quẩy thôi
+0   chúng tôi ghét nó
+1   chúng tôi thích nó
+1   quẩy lên nào
+1   quẩy !!!
+0   really bad
+0   i hate it
+0   i feel bad
+0   i do not like it
+1   i love it
+1   it make me like
+1   like this song
+1   like this video
+1   i like it so much
+1   really like it
+1   like like like
+1   he like it
+1   she like it
+1   we like it
+1   we like this
+0   super hate this
+1   super like this
+0   we hate that
+0   my friend hate it
+1   i like this video
+1   this make me feel good
+1   i like to play this
+0   i hate to play this
+1   i like to stay here
+1   i like to go there
+0   i hate to be there
+1   like to be there
+1   my parent like this song
+1   my friend love this
+1   fucking like it
+1   like this
+1   love it
+1   like it
+1   cool
+0   quá tồi tệ
+0   tồi tệ kinh khủng
+1   hay kinh khủng
+0   tồi tệ dã man
+1   hay dã man
+0   tệ dã man
+0   tôi thấy nó quá tệ
+1   tôi yêu thích thể loại này
+1   đẹp quá đi mất
+1   tôi thích những thứ đẹp
+1   super cool
+1   awesome
+1   nice
+1   really good
+1   good
+1   very good
+1   best
+1   this is the best
+0   this is the worst
+0   worst
+1   i like it
+1   cái này làm tao bị nghiện rồi
+1   nghiện cái này
+0   nghe chán vcl
+0   chán
+0   như cc
+1   tuyệt vời ông mặt trời
+1   tuyệt vời
+1   quá là hay
+1   hay quá
+1   yêu mất rồi
+1   đẹp quá đi mất
+1   phê
+0   ghét cái thứ này
+0   thực sự thấy chán
+1   nhìn nghiện luôn
+1   đẹp quá sức tưởng tượng
+0   xấu quá
+1   xinh quá
+1   Super
+1   You’re on the right track now
+1   That’s right
+1   Đúng rồi
+1   That’s fab!
+1   Thật khó tin
+1   You’ve got it
+1   That’s coming along nicely
+1   Điều đó đang diễn ra tốt đẹp
+1   That’s very much better
+1   Điều đó tốt lên nhiều rồi
+1   I’m happy to see you working!
+1   Thật vui khi thấy bạn làm được
+1   Nice going!
+1   Mọi việc đang tốt đẹp
+1   quá tốt
+1   quá đẹp
+1   That’s way
+1   let go
+1   You’re getting better every day
+1   Anh đang dần giỏi lên đấy
+1   You did that time
+1   giỏi quá
+1   siêu quá
+1   Keep up the good work
+1   Sensational!
+1   That’s it
+1   Well, look at you go
+1   Way to go
+1   You’re doing fine
+1   Exactly right
+1   Great
+1   Tuyệt
+1   That’s better
+1   hay hơn nhiều rồi
+1   quá đỉnh
+1   siêu đỉnh
+1   đỉnh của đỉnh
+1   Excellent
+1   Hoàn hảo
+1   Perfect
+1   That’s best ever
+1   tuyệt nhất từ trước đến giờ
+1   number one
+1   đỉnh cao
+1   Fine
+1   Terrific
+1   Xuất sắc
+1   You certainly did it well today
+1   Good thinking
+1   Nghĩ hay lắm
+1   I’ve never seen anyone do it better
+1   Good for you
+1   Tốt đấy
+1   I like that
+1   Tôi thích điều đó
+1   Marvelous
+1   Rất tốt
+1   Congratulations
+1   Chúc mừng
+1   That’s quite an improvement
+1   Thực sự là một bước tiến bộ
+1   tiến bộ hơn rất nhiều
+1   You make it look easy
+1   Much better
+1   Tốt hơn nhều rồi
+1   That’s better than ever
+1   Tốt nhất từ trước đến nay
+1   đỉnh nhất
+0   thực sự cảm thấy chán
+0   không được hay
+0   tệ quá đi mất
+0   tệ như thế này ai nghe được
+0   xấu thậm tệ
+0   tôi thật sự không ưa nổi cái này
+0   không thể ưa nổi
+0   nhìn chán đéo chịu được
+0   nhìn mặt thấy ghét
+0   căm ghét
+0   chán không tả được
+0   ugly bitch
+0   chán đời
+1   Chet mat thoiii
+1   Tui thích trai đẹp quá nè
+1   ối dồi ôi
+1   Bài gì mà hay dễ sợ
+1   hay dễ sợ
+1   awww
+1   tôi yêu cái này rồi
+1   tôi bị nghiện cái này
+1   Oh yeah
+1   Chết mất thôi
+0   thật sự là quá chán
+0   chán không thể nào chịu được
+1   bị nghiện mất rồi
+1   hay quá sức tưởng tượng
+1   hay dễ sợ luôn
+1   hay tuyệt vời
+1   tệ quá sức tưởng tượng
+1   tệ vcl
+1   hay vcl

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/background_color">
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_search"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="50dp"/>
+        <EditText
+            android:id="@+id/editTextSearchUserFragmentMessage"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:textColorHint="#e7e7e7"
+            android:backgroundTint="#e7e7e7"
+            android:hint="@string/search_user_message"
+            android:layout_marginLeft="7dp"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listViewFragmentMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

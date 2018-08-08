@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ScrollView
+        android:id="@+id/content"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll">
+
+            <ImageView
+                android:id="@+id/imageViewProfilePictureFragmentProFile"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                app:layout_scrollFlags="scroll"/>
+            <TextView
+                android:id="@+id/textViewQuotesProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quotes"
+                android:textSize="16dp"
+                android:textStyle="italic"
+                android:gravity="center"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutNameProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutBirthdayProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutGenderProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutLocationProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutHomeTownProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutEmailProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycleViewProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_scrollFlags="scroll"/>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

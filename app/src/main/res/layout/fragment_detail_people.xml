@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollViewFragmentDetailPeople"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll">
+            <ImageView
+                android:id="@+id/imageViewProfileFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="365dp"
+                app:layout_scrollFlags="scroll" />
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutNameFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutBirthdayFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutGenderFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutLocationFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <com.example.manhtuan.lovefinder.customview.AttributeViewLayout
+                android:id="@+id/AttributeViewLayoutEmailFragmentDetailPeople"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
